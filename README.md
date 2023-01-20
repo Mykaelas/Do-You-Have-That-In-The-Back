@@ -7,6 +7,7 @@ No License as of this point in time
 ## Table of Contents
 
 - [Description](#description)
+- [Languages](#languages)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -17,6 +18,18 @@ No License as of this point in time
 ## Description:
 
 The aim fo this product is to make it easy for companies to keep track of their inventory and easily update their stock.
+
+## Languages: 
+Below are a list of langagues that were used to create this project: 
+- JavaScript
+- NodeJS
+- MySQL/MySQL2
+- Sequelize
+- Express
+- Insomnia
+- dotenv package
+- GitHub
+
 
 ## Installation:
 
